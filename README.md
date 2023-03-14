@@ -1,3 +1,4 @@
+![banner](https://user-images.githubusercontent.com/63192115/176181232-2d0a6027-0b0a-4cee-b3ba-aacf7d293384.png)
 <h1 align="center">Hi 👋, I'm Adunola AbdulRahman</h1>
 <h3 align="center">A passionate frontend developer from Nigeria ,who builds thoughtful, engaging and aesthetically pleasing interactive web applications. If you are in search of a frontend developer who enjoys solving problems and is eager to learn and contribute, I'd love to hear from you!</h3>
 
